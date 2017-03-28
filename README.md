@@ -11,7 +11,8 @@ Time spent: 3 hours spent in total
     - Vulnerability types: Cross-Site Scripting (XSS)
     - Tested in version: 4.1.1
     - Fixed in version: 4.1.2
-  - [ ] GIF Walkthrough: 
+  - [X] GIF Walkthrough: 
+      <img src='xss1.gif' title='XSS1' width='' alt='XSS1' />
   - [X] Steps to recreate: 
         1. Go to main site.
         2. Leave a comment with XSS code.
@@ -21,7 +22,8 @@ Time spent: 3 hours spent in total
     - Vulnerability types: Cross-Site Scripting (XSS)
     - Tested in version: 4.1.1
     - Fixed in version: 4.2.13
-  - [ ] GIF Walkthrough: 
+  - [X] GIF Walkthrough: 
+       <img src='xss2.gif' title='XSS2' width='' alt='XSS2' />
   - [X] Steps to recreate: 
         1. Go to Media section.
         2. Select Add New
@@ -40,7 +42,8 @@ Time spent: 3 hours spent in total
     - Vulnerability types: Cross-Site Scripting (XSS)
     - Tested in version: 4.1.1
     - Fixed in version: 4.2.13
-  - [ ] GIF Walkthrough: 
+  - [X] GIF Walkthrough: 
+       <img src='xss3.gif' title='XSS3' width='' alt='XSS3' />
   - [X] Steps to recreate: 
         1. Go to Media section.
         2. Select Add New.
@@ -59,7 +62,8 @@ Time spent: 3 hours spent in total
     - Vulnerability types: Cross-Site Scripting (XSS)
     - Tested in version: 4.1.1
     - Fixed in version: 4.2.10
-  - [ ] GIF Walkthrough: 
+  - [X] GIF Walkthrough: 
+      <img src='xss4.gif' title='XSS4' width='' alt='XSS4' />
   - [X] Steps to recreate:
         1. Go to Posts section.
         2. Select Create New.
